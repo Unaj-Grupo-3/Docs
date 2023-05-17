@@ -1,0 +1,91 @@
+ INSERT INTO [dbo].[Users] ([UserId] ,[Name] ,[LastName]  ,[Birthday] ,[Description] ,[LocationId] ,[GenderId])
+     VALUES
+           (1,'Noemi Angelica', 'Gaspar', cast('1963-06-28' as date), 'Soy una persona paciente,me gusta el arte y disfruto de mi flia', 1, 2);
+     INSERT INTO [dbo].[Users] ([UserId] ,[Name] ,[LastName]  ,[Birthday] ,[Description] ,[LocationId] ,[GenderId])
+     VALUES
+           (2,'Julian', 'Chaves', cast('1996-11-10' as date), 'Soy una persona poco paciente a veces tomo mates', 2, 1);
+     INSERT INTO [dbo].[Users] ([UserId] ,[Name] ,[LastName]  ,[Birthday] ,[Description] ,[LocationId] ,[GenderId])
+     VALUES
+           (3,'Mauricio ', 'Capraro', cast('1992-11-05' as date), 'Soy una persona paciente y me gusta salir a tomar cerveza ', 3, 1);
+     INSERT INTO [dbo].[Users] ([UserId] ,[Name] ,[LastName]  ,[Birthday] ,[Description] ,[LocationId] ,[GenderId])
+     VALUES
+           (4,'Guillermo ', 'Vilchez ', cast('1983-06-19' as date), 'Soy una persona tranquila y me encanta hacer deportes ', 4, 1);
+     INSERT INTO [dbo].[Users] ([UserId] ,[Name] ,[LastName]  ,[Birthday] ,[Description] ,[LocationId] ,[GenderId])
+     VALUES
+           (5,'Marina ', 'Alegre ', cast('1997-02-23' as date), 'Soy una persona que me considero una buena persona , me gusta juntarme con amigas y compartir unos mates . pero también hay días en los cuales prefiero disfrutar la soledad y el silencio. ', 5, 2);
+     INSERT INTO [dbo].[Users] ([UserId] ,[Name] ,[LastName]  ,[Birthday] ,[Description] ,[LocationId] ,[GenderId])
+     VALUES
+           (6,'Analia', 'Sabatino', cast('1996-03-10' as date), 'Soy una persona hiperactiva, me gusta hacer deportes y comer saludable.', 6, 2);
+     INSERT INTO [dbo].[Users] ([UserId] ,[Name] ,[LastName]  ,[Birthday] ,[Description] ,[LocationId] ,[GenderId])
+     VALUES
+           (7,'Barbara ', 'Barthelemy', cast('1995-08-29' as date), 'Persona detallista que disfruta pasar tiempo con mi mascota ', 7, 2);
+     INSERT INTO [dbo].[Users] ([UserId] ,[Name] ,[LastName]  ,[Birthday] ,[Description] ,[LocationId] ,[GenderId])
+     VALUES
+           (8,'Maria Florencia ', 'Daher', cast('1997-04-12' as date), 'Soy buena persona y a veces ansiosa pero me gusta salir a tomar unos tereres o mate', 8, 2);
+     INSERT INTO [dbo].[Users] ([UserId] ,[Name] ,[LastName]  ,[Birthday] ,[Description] ,[LocationId] ,[GenderId])
+     VALUES
+           (9,'Matias', 'Silvero ', cast('1993-09-19' as date), 'Soy.tranquilo, paciente y me gusta el fútbol. ', 9, 1);
+     INSERT INTO [dbo].[Users] ([UserId] ,[Name] ,[LastName]  ,[Birthday] ,[Description] ,[LocationId] ,[GenderId])
+     VALUES
+           (10,'Diego', 'Rendina', cast('1996-01-19' as date), 'Me considero una persona amable, responsable, que le gusta salir a pasear, entrenar, salir a correr, jugar al fútbol y mirar la formula 1. Team verano siempre. Me paso un 70% del día programando.', 10, 1);
+     INSERT INTO [dbo].[Users] ([UserId] ,[Name] ,[LastName]  ,[Birthday] ,[Description] ,[LocationId] ,[GenderId])
+     VALUES
+           (11,'Karen', 'Barboza ', cast('1996-07-31' as date), 'Soy una persona que se adapta siempre a nuevas situaciones y le gusta aprender siempre cosas nuevas. Me gusta tomar mate', 11, 2);
+     INSERT INTO [dbo].[Users] ([UserId] ,[Name] ,[LastName]  ,[Birthday] ,[Description] ,[LocationId] ,[GenderId])
+     VALUES
+           (12,'Braian ', 'Cadillac', cast('1992-10-26' as date), 'Soy antisocial. Me gusta el fútbol, me interesa la programación, soy respetuoso cuando es mutuo.', 12, 1);
+     INSERT INTO [dbo].[Users] ([UserId] ,[Name] ,[LastName]  ,[Birthday] ,[Description] ,[LocationId] ,[GenderId])
+     VALUES
+           (13,'Cristian', 'Maripil', cast('1997-05-13' as date), 'Buenos dias, me considero una persona culta, con muchas ganas de enfrentar diferentes desafios, y tengo una gran devocion por los transexuales (travesaños, trabas, etc). Muchas gracias.', 13, 3);
+     INSERT INTO [dbo].[Users] ([UserId] ,[Name] ,[LastName]  ,[Birthday] ,[Description] ,[LocationId] ,[GenderId])
+     VALUES
+           (14,'Milagros ', 'Zotelo ', cast('1997-11-17' as date), 'Soy una persona sociable, me gusta hablar y tomar mates en una plaza. También el porrito ', 14, 2);
+     INSERT INTO [dbo].[Users] ([UserId] ,[Name] ,[LastName]  ,[Birthday] ,[Description] ,[LocationId] ,[GenderId])
+     VALUES
+           (15,'Micaela ', 'Alende', cast('1996-10-15' as date), 'Soy una persona con humor y me gusta ir a la cancha a ver a San Lorenzo.', 15, 2);
+     INSERT INTO [dbo].[Users] ([UserId] ,[Name] ,[LastName]  ,[Birthday] ,[Description] ,[LocationId] ,[GenderId])
+     VALUES
+           (16,'Cristian ', 'Benitez ', cast('2023-05-13' as date), 'Soy una persona con poca paciencia y me gusta el deporte ', 16, 1);
+     INSERT INTO [dbo].[Users] ([UserId] ,[Name] ,[LastName]  ,[Birthday] ,[Description] ,[LocationId] ,[GenderId])
+     VALUES
+           (17,'Micaela', 'Martinez', cast('1992-07-17' as date), 'Soy una persona muy autoexigente, ansiosa y sensible.', 17, 2);
+     INSERT INTO [dbo].[Users] ([UserId] ,[Name] ,[LastName]  ,[Birthday] ,[Description] ,[LocationId] ,[GenderId])
+     VALUES
+           (18,'Leandro ', 'Lima ', cast('1994-01-17' as date), 'Soy muy ansioso quiero todo ya me gusta jugar al fútbol.', 18, 1);
+    INSERT INTO [dbo].[Locations] ([Latitude],[Longitude],[Country],[Province],[City])
+VALUES(30.891471501386427,30.367779865136487,'Quilmes', 'Buenos Aires', 'Argentina');
+    INSERT INTO [dbo].[Locations] ([Latitude],[Longitude],[Country],[Province],[City])
+VALUES(30.485460964009658,30.3052896244092,'Capital', 'Buenos Aires', 'Argentina');
+    INSERT INTO [dbo].[Locations] ([Latitude],[Longitude],[Country],[Province],[City])
+VALUES(31.515586448836928,28.297937327131855,'Berazategui', 'Buenos Aires', 'Argentina');
+    INSERT INTO [dbo].[Locations] ([Latitude],[Longitude],[Country],[Province],[City])
+VALUES(29.94346759089111,29.08284886041881,'Bernal', 'Buenos Aires', 'Argentina');
+    INSERT INTO [dbo].[Locations] ([Latitude],[Longitude],[Country],[Province],[City])
+VALUES(31.77770888046232,30.25353930198244,'Florencio Varela', 'Buenos Aires', 'Argentina');
+    INSERT INTO [dbo].[Locations] ([Latitude],[Longitude],[Country],[Province],[City])
+VALUES(29.170656461986887,28.268515912152708,'Bernal', 'Buenos Aires', 'Argentina');
+    INSERT INTO [dbo].[Locations] ([Latitude],[Longitude],[Country],[Province],[City])
+VALUES(28.668932873607513,31.455729636613018,'Capital', 'Buenos Aires', 'Argentina');
+    INSERT INTO [dbo].[Locations] ([Latitude],[Longitude],[Country],[Province],[City])
+VALUES(31.77684154305362,31.35002579534491,'Berazategui', 'Buenos Aires', 'Argentina');
+    INSERT INTO [dbo].[Locations] ([Latitude],[Longitude],[Country],[Province],[City])
+VALUES(28.54553386508843,31.640951547647035,'Capital', 'Buenos Aires', 'Argentina');
+    INSERT INTO [dbo].[Locations] ([Latitude],[Longitude],[Country],[Province],[City])
+VALUES(28.292776395053902,28.464883570698746,'Florencio Varela', 'Buenos Aires', 'Argentina');
+    INSERT INTO [dbo].[Locations] ([Latitude],[Longitude],[Country],[Province],[City])
+VALUES(29.40536676740984,28.238892127454694,'Bernal', 'Buenos Aires', 'Argentina');
+    INSERT INTO [dbo].[Locations] ([Latitude],[Longitude],[Country],[Province],[City])
+VALUES(28.398393326483486,29.838417137655558,'Capital', 'Buenos Aires', 'Argentina');
+    INSERT INTO [dbo].[Locations] ([Latitude],[Longitude],[Country],[Province],[City])
+VALUES(27.62743328795182,30.281714690670185,'Florencio Varela', 'Buenos Aires', 'Argentina');
+    INSERT INTO [dbo].[Locations] ([Latitude],[Longitude],[Country],[Province],[City])
+VALUES(30.577931750605014,30.08502388948309,'Quilmes', 'Buenos Aires', 'Argentina');
+    INSERT INTO [dbo].[Locations] ([Latitude],[Longitude],[Country],[Province],[City])
+VALUES(27.520595443856273,28.720747820498136,'Bernal', 'Buenos Aires', 'Argentina');
+    INSERT INTO [dbo].[Locations] ([Latitude],[Longitude],[Country],[Province],[City])
+VALUES(28.797268115131374,28.633546906357296,'Berazategui', 'Buenos Aires', 'Argentina');
+    INSERT INTO [dbo].[Locations] ([Latitude],[Longitude],[Country],[Province],[City])
+VALUES(31.81299591982706,27.257353432158073,'Quilmes', 'Buenos Aires', 'Argentina');
+    INSERT INTO [dbo].[Locations] ([Latitude],[Longitude],[Country],[Province],[City])
+VALUES(28.672698520659477,31.887450586711857,'Capital', 'Buenos Aires', 'Argentina');
+    
